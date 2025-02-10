@@ -1,2 +1,4 @@
 # Match-Stick-Game-ASSEMBLY-
-Match stickg game programmed using assembly COPYWRIGHT NIKHIL MOHITE
+Match stick game programmed using assembly COPYWRIGHT NIKHIL MOHITE
+
+* video not uploaded
